@@ -14,7 +14,10 @@
     "body-parser": "1.0.2",
     "koop-server": "~0.1.4",
     "pg": "~3.4.0",
-    "git-rev": "~0.2.1"
+    "git-rev": "~0.2.1",
+    "koop-github": "https://github.com/chelm/koop-github/tarball/master"
+    "koop-gist": "https://github.com/chelm/koop-gist/tarball/master",
+    "koop-agol": "https://github.com/Esri/koop-agol/tarball/master"
   },
   "scripts": {
     "start": "node server.js",
